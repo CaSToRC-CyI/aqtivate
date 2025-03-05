@@ -66,13 +66,13 @@ dl.event-info dt {
     color: #D1242A !important;
     border: none !important;
     padding: 0 !important;
-    margin: 0 !important;
+    margin: 3px !important;
 }
 
 dl.event-info dd {
     background-color: transparent !important;
     border: none !important;
     padding: 0 0 0 10px !important;
-    margin: 0 !important;
+    margin: 3px !important;
     border-left: 2px solid #ccc !important; 
 }
