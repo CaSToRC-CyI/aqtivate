@@ -1,0 +1,78 @@
+/* Force table to use full width */
+.wy-table-responsive {
+    overflow: hidden !important;
+    /* Disable scrolling */
+}
+
+.wy-table-responsive table {
+    width: 100% !important;
+    display: table;
+    table-layout: fixed;
+    /* Ensures equal column width distribution */
+}
+
+.wy-table-responsive td,
+.wy-table-responsive th {
+    word-wrap: break-word;
+    white-space: normal !important;
+    /* Prevent text from forcing scrolling */
+}
+
+.wy-side-nav-search, .wy-nav-top {
+    background-color: #D9DAE4; 
+}
+
+.wy-menu-vertical header, .wy-menu-vertical p.caption {
+    color: #D1242A;
+}
+
+a {
+    color: #D1242A;
+}
+
+a:hover {
+    color: #578DEF; /* Hover state should pop */
+}
+
+
+.wy-menu-vertical li.current a:hover {
+    color: #2B2727; /* For items in the currently open section */
+    background-color: #EBE7E7; /* For items outside the currently open section */
+}
+
+.wy-menu-vertical li:not(.current) a:hover {
+    background-color: #2B2727; /* For items outside the currently open section */
+    color: #578DEF; /* For items outside the currently open section */
+}
+
+dl.event-info {
+    display: grid;
+    grid-template-columns: max-content auto;
+    gap: 1px 10px;
+    align-items: baseline;
+}
+
+dl.event-info dt,
+dl.event-info dd {
+    font-size: 0.8em !important; 
+    font-family: inherit !important;
+    line-height: 1.5 !important;
+}
+
+dl.event-info dt {
+    text-align: right;
+    font-weight: bold;
+    background-color: transparent !important;
+    color: #D1242A !important;
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+dl.event-info dd {
+    background-color: transparent !important;
+    border: none !important;
+    padding: 0 0 0 10px !important;
+    margin: 0 !important;
+    border-left: 2px solid #ccc !important; 
+}

@@ -1,0 +1,26 @@
+docs_dir: docs
+site_dir: site
+use_directory_urls: true  # This is default, creates about/index.html for about.md
+
+site_name: Aqtivate Training Content
+nav:
+  - Home: index.md
+  - Interdisciplinary workshops: 
+    - Exascale computing and scalable algorithms: ws/school_1.md
+    - Machine learning for science and engineering: ws/school_2.md
+    - Quantum computing and tensor networks: ws/school_3.md
+  - Thematic workshops:
+    - Computational fluid dynamics: ws/cfd.md
+    - Lattice field theories and lattice QCD: ws/lqcd.md
+    - Computational biology: ws/bio.md
+  - About: about.md
+
+theme: 
+  name: readthedocs
+  highlightjs: True
+  user_color_mode_toggle: True
+  logo: images/aqtivate-logo.png
+
+extra_css:
+  - css/extra.css
+  
