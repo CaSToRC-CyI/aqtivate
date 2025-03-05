@@ -1,0 +1,19 @@
+/* Force table to use full width */
+.wy-table-responsive {
+    overflow: hidden !important;
+    /* Disable scrolling */
+}
+
+.wy-table-responsive table {
+    width: 100% !important;
+    display: table;
+    table-layout: fixed;
+    /* Ensures equal column width distribution */
+}
+
+.wy-table-responsive td,
+.wy-table-responsive th {
+    word-wrap: break-word;
+    white-space: normal !important;
+    /* Prevent text from forcing scrolling */
+}
