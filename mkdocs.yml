@@ -3,6 +3,8 @@ site_dir: site
 use_directory_urls: true  # This is default, creates about/index.html for about.md
 
 site_name: Aqtivate Training Content
+repo_url: https://github.com/CaSToRC-CyI/aqtivate
+
 nav:
   - Home: index.md
   - Interdisciplinary workshops: 
