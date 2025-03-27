@@ -76,3 +76,12 @@ dl.event-info dd {
     margin: 3px !important;
     border-left: 2px solid #ccc !important; 
 }
+
+.small-mono {
+    font-family: monospace;
+    font-size: 0.6rem; /* 80% of the normal text size */
+}
+
+.mono {
+    font-family: monospace;
+}

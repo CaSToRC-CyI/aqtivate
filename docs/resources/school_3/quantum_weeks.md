@@ -1,0 +1,9 @@
+- <span class="mono">[QuantumWeeksPadova_Hackathon_Topic1.pdf](../../resources/school_3/QuantumWeeksPadova_Hackathon_Topic1.pdf)</span>
+- <span class="mono">[QuantumWeeksPadova_Hackathon_Topic2.pdf](../../resources/school_3/QuantumWeeksPadova_Hackathon_Topic2.pdf)</span>
+- <span class="mono">[QuantumWeeksPadova_Hackathon_Topic3.pdf](../../resources/school_3/QuantumWeeksPadova_Hackathon_Topic3.pdf)</span>
+- <span class="mono">[QuantumWeeksPadova_Hackathon_Topic4.pdf](../../resources/school_3/QuantumWeeksPadova_Hackathon_Topic4.pdf)</span>
+- <span class="mono">[QuantumWeeksPadova_Hackathon_Topic5.pdf](../../resources/school_3/QuantumWeeksPadova_Hackathon_Topic5.pdf)</span>
+- <span class="mono">[QuantumWeeksPadova_Hackathon_Topic6.pdf](../../resources/school_3/QuantumWeeksPadova_Hackathon_Topic6.pdf)</span>
+- <span class="mono">[QuantumWeeksPadova_Hackathon_Topic7.pdf](../../resources/school_3/QuantumWeeksPadova_Hackathon_Topic7.pdf)</span>
+- <span class="mono">[QuantumWeeksPadova_Hackathon_Topic8.pdf](../../resources/school_3/QuantumWeeksPadova_Hackathon_Topic8.pdf)</span>
+- <span class="mono">[QuantumWeeksPadova_Hackathon_Topic9.pdf](../../resources/school_3/QuantumWeeksPadova_Hackathon_Topic9.pdf)</span>

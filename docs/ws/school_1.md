@@ -13,4 +13,12 @@
 <dd>Andreas Frommer (University of Wuppertal),</br>Erik Lindahl (KTH Stockholm),</br>Dirk Pleiter (KTH Stockholm)</dd>
 </dl>
 
+### Material by topic
+
+- Computer architectures <span class="small-mono">[[file listing](../resources/school_1/computer_architectures.md)]</span>
+- Parallel algorithms <span class="small-mono">[[file listing](../resources/school_1/parallel_algorithms.md)]</span>
+- Performance modelling and performance engineering <span class="small-mono">[[file listing](../resources/school_1/performance.md)]</span>
+- GPU Programming <span class="small-mono">[[file listing](../resources/school_1/gpu.md)]</span>
+- Parallel programming using MPI <span class="small-mono">[[file listing](../resources/school_1/mpi.md)]</span>
+- Data management <span class="small-mono">[[file listing](../resources/school_1/data_management.md)]</span>
 
